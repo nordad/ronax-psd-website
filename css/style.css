@@ -1,0 +1,7 @@
+.navbar{
+	background: #d35400;
+}
+.navbar-collapse{
+	justify-content: flex-end;
+	color: white;
+}
